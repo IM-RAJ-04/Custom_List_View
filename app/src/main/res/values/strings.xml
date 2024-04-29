@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custom List View</string>
+    <string name="galaxy_s4">Galaxy S4</string>
+    <string name="samsung">Samsung</string>
+</resources>
